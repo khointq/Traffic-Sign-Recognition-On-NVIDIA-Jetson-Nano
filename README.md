@@ -15,3 +15,11 @@ To label the images, the LabelImg image annotation tool is used. The images are 
 <img width="1002" height="538" alt="image" src="https://github.com/user-attachments/assets/9e94a9ef-1b92-4b49-9ad9-76b5d240db3b" />
 ## Training on Kaggle
 The training phase uses an NVIDIA T4 GPU, and the model is trained for 300 epochs with a batch size of 16. The source code used to train the model is available at training.ipynb
+## Optimizing the model for inference on NVIDIA Jetson Nano
+<img width="906" height="368" alt="image" src="https://github.com/user-attachments/assets/33004681-c3d3-425c-8344-4122c84dc3c7" />
+
+The source code used to optimize the model is available at optimize.ipynb
+Note: this step must be performed on Jetson Nano
+## Inference on NVIDIA Jetson Nano
+
+
