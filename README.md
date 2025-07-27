@@ -19,7 +19,10 @@ The training phase uses an NVIDIA T4 GPU, and the model is trained for 300 epoch
 <img width="906" height="368" alt="image" src="https://github.com/user-attachments/assets/33004681-c3d3-425c-8344-4122c84dc3c7" />
 
 The source code used to optimize the model is available at optimize.ipynb
+
 Note: this step must be performed on Jetson Nano
 ## Inference on NVIDIA Jetson Nano
+[▶ Xem video demo]()
+
 
 
