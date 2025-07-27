@@ -24,6 +24,6 @@ Note: this step must be performed on Jetson Nano
 ## Inference on NVIDIA Jetson Nano
 [▶ video demo](https://youtu.be/8OtaHCjE_lQ)
 
-The source code used to infer the model is available at inference.py
+The source code used to infer the model is available at inferencetrt.py
 
 
