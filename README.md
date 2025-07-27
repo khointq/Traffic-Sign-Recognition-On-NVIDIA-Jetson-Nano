@@ -23,6 +23,7 @@ The source code used to optimize the model is available at optimize.ipynb
 Note: this step must be performed on Jetson Nano
 ## Inference on NVIDIA Jetson Nano
 [▶ video demo](https://youtu.be/8OtaHCjE_lQ)
+
 The source code used to infer the model is available at inference.py
 
 
