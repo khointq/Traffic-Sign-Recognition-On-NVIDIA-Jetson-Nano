@@ -26,4 +26,4 @@ Note: this step must be performed on Jetson Nano
 
 The source code used to infer the model is available at inferencetrt.py
 
-
+## See the detailed report for this project at seminarreport.pdf, written by VietNamme Language.
